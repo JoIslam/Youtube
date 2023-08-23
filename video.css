@@ -1,0 +1,25 @@
+.video-preview{
+	width: 300px;
+	display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+.thumbnail{
+	width: 300px;
+}
+.video-info{
+	width: 300px;
+	display: block;
+}
+.info{
+	width: 250px;
+	display: inline-block;
+}
+.chan-pic{
+	width: 25px;
+	display: inline-block;
+}
+.channel{
+	width: 100%;
+	object-fit: contain;
+}
